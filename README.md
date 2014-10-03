@@ -41,3 +41,7 @@ a * b //Computes the result of matrix multiplication
 who //Prints a list of all the currenlty stored variables
 quit //Terminates the program
 ```
+
+Example
+------
+![Example](/ex.png?raw=true)
